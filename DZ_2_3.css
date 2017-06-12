@@ -1,0 +1,26 @@
+.coral{
+	background: #ff7f50;  /*колір заливки*/
+	text-align: center; /*виставляння текста по центру*/
+	width: 150px; /*ширина*/
+	height: 40px; /*висота*/
+	margin-bottom: 15px; /*відступ*/
+	padding: 30px 30px 30px 30px;
+	font-size: 30px /*розмір шрифта*/
+
+}
+.grey{
+	background: #d6d7be;  /*колір заливки*/
+	font-family: sans-serif; /*шрифт без засічок*/
+	width: 500px; /*ширина*/
+	height: 200px; /*висота*/
+	margin-bottom: 15px; /*відступ*/
+}
+ .h1{
+	color: #532601; /*заголовок першого рівня*/
+ }
+ .h2{
+	color: #000; /*заголовок другого рівня*/
+ }
+ .h3{
+ 	color: #875327; /*загаоловок третього рівня*/
+ }
